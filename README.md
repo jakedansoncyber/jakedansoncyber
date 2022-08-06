@@ -51,3 +51,11 @@ To learn the whole CI/CD process, I am developing a simple website over at my bu
 1. Youtube channel
 
  **Follow my journey @ https://dansonj.tech**
+ 
+ **My favorite people to learn from (youtube)**
+- NetworkChuck
+- John Hammond
+- Julie Ng (DevOps)
+- LiveOverflow
+- Raw Coding (C# Advanced Topics)
+- 
