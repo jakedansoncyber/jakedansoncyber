@@ -37,7 +37,7 @@
         - SPNs
         - Managed Identities
     - AKS
-    - Azure Frondoor
+    - Azure Frontdoor
     - Keyvaults
 8. Dotnet
     - C#
