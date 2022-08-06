@@ -15,9 +15,12 @@
     - Containerizing applications
     - Lowlevel work such as:
         - Docker Daemon
+            - API
+            - Networking
+            - Security
         - Containerd
         - runc
-            - Shim
+        - Shim
 4. Kubernetes
     - Kubectl
     - Helmfiles & Helmcharts
