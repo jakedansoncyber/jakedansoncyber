@@ -3,7 +3,7 @@
 
 
 
-# *👋 Hi, I’m @jakedansoncyber* **🌱 I’m currently learning** 
+# *👋 Hi, I’m @jakedansoncyber* **I’m currently learning...** 
 1. CI/CD & software development lifecycle: ADO Pipelines & Github Actions
 2. Docker
 3. Kubernetes
