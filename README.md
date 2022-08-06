@@ -58,4 +58,3 @@ To learn the whole CI/CD process, I am developing a simple website over at my bu
 - Julie Ng (DevOps)
 - LiveOverflow
 - Raw Coding (C# Advanced Topics)
-- 
