@@ -13,14 +13,29 @@
 2. Docker
     - Dockerfile & image building
     - Containerizing applications
-    - Lowlevel work such as
+    - Lowlevel work such as:
         - Docker Daemon
         - Containerd
         - runc
             - Shim
 4. Kubernetes
-5. Azure
-6. Dotnet
+    - Kubectl
+    - Helmfiles & Helmcharts
+    - Lowlevel work such as:
+        - Master & Worker nodes
+        - K8's Services
+        - YAML Deployment
+        - Nginx
+        - Load Balancer
+6. Azure
+    - Subscriptions : Resource Groups : Resources
+        - Permissions
+        - SPNs
+        - Managed Identities
+    - AKS
+    - Azure Frondoor
+    - Keyvaults
+8. Dotnet
     - C#
     - C# MVC Applications
     - C# RESTful APIs
