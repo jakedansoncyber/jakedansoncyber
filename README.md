@@ -15,4 +15,4 @@ I am learning the whole CI/CD process. I am developing a simple website over at 
 # **Future Projects**
 1. Youtube channel
 
-# **Follow my journey @ https://dansonj.tech**
+ **Follow my journey @ https://dansonj.tech**
