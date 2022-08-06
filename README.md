@@ -10,7 +10,7 @@
 4. Azure
 
 #  **Currently Developing**
-I am learning the whole CI/CD process. I am developing a simple website over at my bulkybook repo that will build, scan, containerize and deploy to AKS. Then I will look to automate that process through ADO & templatize code that will want to be reused by another application.
+To learn the whole CI/CD process, I am developing a simple website over at my bulkybook repo that will build, scan, containerize and deploy to AKS. Then I will look to automate that process through ADO & templatize code that will want to be reused by another application.
 
 # **Future Projects**
 1. Youtube channel
