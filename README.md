@@ -21,6 +21,7 @@
         - Containerd
         - runc
         - Shim
+     - Docker Swarm
 4. Kubernetes
     - Kubectl
     - Helmfiles & Helmcharts
