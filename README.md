@@ -6,8 +6,8 @@
 # *👋 Hi, I’m @jakedansoncyber* **I’m currently learning...** 
 1. CI/CD & software development lifecycle: ADO Pipelines & Github Actions
     - YAML Pipelines
-    - Sonarqube Static Code Scanning
-    - Aqua Container Scanning
+    - Static Code Scanning
+    - Container Scanning
     - Dependabot Package Scanning
     - Deployments
 2. Docker
